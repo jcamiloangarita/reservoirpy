@@ -1,1 +1,0 @@
-from .schematics import well_schema 
